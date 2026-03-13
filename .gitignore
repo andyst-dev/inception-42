@@ -1,0 +1,10 @@
+# Local environment
+srcs/.env
+
+# Local secrets
+secrets/*.txt
+!secrets/*.example
+
+# OS / editor
+.DS_Store
+*.swp
